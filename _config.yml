@@ -4,7 +4,7 @@ bio:            'Just a simple Jekyll theme'
 description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
 picture:        'assets/img/profile.png'
 locale:         en_US
-url:            https://Chajii.github.io
+url:            https://Chajii.github.io/JBlog
 
 
 # Jekyll
@@ -69,7 +69,7 @@ gems:
   - jekyll-paginate
 
 jekyll-mentions:
-    base_url: "" #https://github.com/JBlog
+    base_url: https://github.com # https://github.com/JBlog
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
